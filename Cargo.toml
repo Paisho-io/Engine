@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 log = "0.4"
 log4rs = "0.13.0"
+chess = { "git" = "https://github.com/jordanbray/chess/" }
